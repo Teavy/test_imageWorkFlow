@@ -1,0 +1,6 @@
+{
+  "name": "TapFlow AI Node Workflow",
+  "description": "Interactive visual node-based AI workflow editor connecting Text, Image, and Video nodes with dedicated AI control windows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
